@@ -1,4 +1,4 @@
-# connect-llm
+# Connect-llm
 
 A modular Python framework that connects to multiple Large Language Models (LLMs) through a unified interface. Designed for developers and researchers who want to experiment, benchmark, or deploy across different LLM providers with minimal friction.
 
